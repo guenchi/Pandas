@@ -12,7 +12,7 @@ https://github.com/numpy/numpy
 
 https://github.com/pandas-dev/pandas
 
-### The Darkart eco-system:
+### The Darkart ecosystem:
 
 https://github.com/guenchi/NumPy
 
