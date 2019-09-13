@@ -1,6 +1,6 @@
 # Pandas for Chez Scheme
 
-![image](https://github.com/guenchi/Pandas/blob/master/img/pandas.png)
+![image](https://github.com/guenchi/Pandas/blob/gh-pages/img/pandas.png)
 
 ### Depencies:
 
